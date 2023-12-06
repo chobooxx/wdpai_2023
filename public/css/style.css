@@ -83,7 +83,7 @@ body {
 a:visited { text-decoration: none; color:#558F6B; }
 a:hover { text-decoration: none; color:#558F6B; }
 a:focus { text-decoration: none; color:#558F6B; }
-a:hover, a:active { text-decoration: none; color:#558F6B }
+a:active { text-decoration: none; color:#558F6B }
 
 @media only screen and (max-device-width: 430px){
     .over-conteriner {
