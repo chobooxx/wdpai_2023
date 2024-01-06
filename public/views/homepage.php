@@ -8,6 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap" rel="stylesheet">
+    <script type="text/javascript" src="/public/js/script.js" defer></script>
     
 </head>
 <body>
@@ -42,7 +43,10 @@
                     <input type="text" id="search" name="sth_search" placeholder="Search">
                 </form>
             </div>
-            <div class="content">fff</div>
+            <div class="content">
+                <div class="item"> aa, bb</div></br>
+                <div class="item"> aa, bb</div></br>
+                <div class="item"> aa, bb</div></br>
         </div>
     </div>
 </body>
